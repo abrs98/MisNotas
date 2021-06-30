@@ -5,14 +5,14 @@
     "kind": "Directory"
   },
   "applicationId": "barrios.abrahan.misnotas",
-  "variantName": "debug",
+  "variantName": "release",
   "elements": [
     {
       "type": "SINGLE",
       "filters": [],
       "versionCode": 1,
       "versionName": "1.0",
-      "outputFile": "app-debug.apk"
+      "outputFile": "app-release.apk"
     }
   ]
 }
